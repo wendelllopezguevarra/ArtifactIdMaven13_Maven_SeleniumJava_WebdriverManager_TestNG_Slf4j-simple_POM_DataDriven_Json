@@ -1,0 +1,17 @@
+[
+	{
+		"makeListj":				"Volvo",
+		"dateofmanufactureTextj":	"01/12/1996",
+		"annualmileageTextj":		"1234"
+	},
+	{
+		"makeListj":				"Volkswagen",
+		"dateofmanufactureTextj":	"01/13/1996",
+		"annualmileageTextj":		"1233"
+	},
+		{
+		"makeListj":				"Toyota",
+		"dateofmanufactureTextj":	"01/14/1996",
+		"annualmileageTextj":		"1232"
+	}
+]	

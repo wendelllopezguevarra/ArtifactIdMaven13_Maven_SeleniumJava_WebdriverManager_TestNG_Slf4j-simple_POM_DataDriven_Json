@@ -1,0 +1,26 @@
+[
+	{
+		"makeListj":				"Volvo",
+		"dateofmanufactureTextj":	"01/12/1996",
+		"annualmileageTextj":		"1234",
+		
+		"firstnameTextj":			"qweqw",
+		"countryListj":				"Åland Islands"
+	},
+	{
+		"makeListj":				"Volkswagen",
+		"dateofmanufactureTextj":	"01/12/1996",
+		"annualmileageTextj":		"1234",
+		
+		"firstnameTextj":			"asdasd",
+		"countryListj":				"Uruguay"
+	},
+	{
+		"makeListj":				"Toyota",
+		"dateofmanufactureTextj":	"01/12/1996",
+		"annualmileageTextj":		"1234",
+		
+		"firstnameTextj":			"zxczxczx",
+		"countryListj":				"Zimbabwe"
+	}
+]	
